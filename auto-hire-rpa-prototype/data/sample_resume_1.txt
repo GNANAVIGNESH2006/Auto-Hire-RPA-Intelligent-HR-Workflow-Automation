@@ -1,0 +1,9 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-123-4567
+
+Summary:
+Backend developer with 4 years experience building REST APIs using Python, Flask and Django. Experienced with PostgreSQL, Docker and AWS. Familiar with unit testing and CI/CD.
+
+Skills: Python, Flask, Django, REST, PostgreSQL, Docker, AWS, Git
+Experience: 4 years
